@@ -26,6 +26,6 @@ I'm open to suggestions and improvements, but please note that the primary focus
 
 Happy coding and creating cool stuff! 🚀
 
-Best,
+Best,<br>
 Pratyush
 
